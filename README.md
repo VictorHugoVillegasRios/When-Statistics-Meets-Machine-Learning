@@ -6,7 +6,7 @@
 
 # ¿Cuándo la estadística deja de ser suficiente y comienza el Machine Learning?
 
-## Un enfoque metodológico mediante la simulación de un sistema agrícola
+## ...un framework metodológico basado en experimentos con complejidad creciente.
 
 <p align="center">
 
