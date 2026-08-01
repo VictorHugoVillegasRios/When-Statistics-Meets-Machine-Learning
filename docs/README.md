@@ -4,6 +4,14 @@ Bienvenido a la documentación oficial del proyecto **When Statistics Meets Mach
 
 Esta carpeta reúne los documentos que describen el framework metodológico desde diferentes niveles de profundidad, permitiendo que investigadores, profesionales, estudiantes y tomadores de decisiones comprendan la propuesta sin necesidad de revisar directamente el código fuente.
 
+## Documentos disponibles
+
+- 📄 Executive Summary
+- 📋 Project Overview
+- 📑 Documentación metodológica
+- 📊 Presentación profesional 
+- 🖼️ Infografía metodológica
+  
 ---
 
 # Contenido
