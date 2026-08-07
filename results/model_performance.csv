@@ -1,0 +1,4 @@
+﻿Ranking,Modelo,R²,RMSE,MAE
+1,XGBoost,0.9633,105.8267,73.9576
+2,Random Forest,0.9415,133.6907,95.9142
+3,Regresión Lineal,0.164,505.3443,376.6968
